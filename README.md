@@ -1,5 +1,5 @@
 # locket-uploader-finale-version
-**Bản cuối cùng của Locket Uploader
+*Bản cuối cùng của Locket Uploader*
 ```
 Important notice:
 This is an test environment
